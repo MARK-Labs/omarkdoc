@@ -1,10 +1,10 @@
 # Base URL of the published website
-baseUrl: https://mark-labs.github.io/omarkadmindoc
+baseUrl: https://mark-labs.github.io/omarkdoc
 
 template:
     url: https://github.com/MARK-Labs/Template-ReadTheDocs
 
-title: Impact™ Administrative Guide
+title: Impact™ User Guide
 subTitle: This is a complete guide for using impact.marklabs.co
 
 # The left menu bar
@@ -30,3 +30,7 @@ menu:
             text: Exporting Data
             # You can use relative urls
             relativeUrl: export.html
+        faq:
+            text: FAQs
+            # You can use relative urls
+            relativeUrl: faq.html

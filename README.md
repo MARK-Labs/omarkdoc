@@ -8,5 +8,5 @@ The purpose of this guide is to provide an overview of the features of the Impac
 
 #### 1. Manage your user profile.
 #### 2. Submit reports to Impact&trade;
-#### 3. Upload content to the Social Feedback Loop &trade;.
+#### 3. Upload content to the Social Feedback Loop&trade;.
 #### 4. Export Performance Data.
