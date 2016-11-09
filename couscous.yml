@@ -1,0 +1,20 @@
+# Base URL of the published website
+baseUrl: https://orgdocs.marklabs.co
+
+template:
+    url: https://github.com/MARK-Labs/Template-ReadTheDocs
+
+title: Organisation Portal User Guide
+subTitle: This is a complete guide for using funder.marklabs.co
+
+# The left menu bar
+menu:
+    items:
+        home:
+            text: Home
+            # You can use relative urls
+            relativeUrl: .
+        user:
+            text: Users
+            # You can use relative urls
+            relativeUrl: user.html
