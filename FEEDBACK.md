@@ -33,4 +33,4 @@ When selecting Case Study, you will be required to upload a document.
 
 ## Editing a Story
 
-To Edit a story, click on the title of the story from the listing page.
+To edit a story, click on the title of the story from the listing page.
