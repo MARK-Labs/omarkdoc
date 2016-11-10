@@ -12,7 +12,7 @@ To access this page, select "Stories" from the menu.
 
 ## Creating a Story
 
-To Create a story click on the ![plus icon](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Plus Icon"). There you able to create various types of Rich Media Content. For all stories, you will be asked for a title, description and location.
+To Create a story click on the ![plus icon](https://d3e1wbkfmk6n2w.cloudfront.net/fa/plus.png "Plus Icon"). There you able to create various types of Rich Media Content. For all stories, you will be asked for a title, description and location.
 
 #### Photo
 

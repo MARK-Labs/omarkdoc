@@ -2,7 +2,7 @@
     margin-bottom: 0;
 }
 
-.wy-nav-side { overflow: inherit; } 
+.wy-nav-side { overflow: inherit; }
 
 /* Code blocks */
 pre > code {
@@ -24,3 +24,9 @@ pre {
     background: #fff;
     margin: 1px 0 24px 0;
 }
+
+img[alt="plus icon"] { width: 18px; }
+img[alt="disable icon"] { width: 18px; }
+img[alt="pencil icon"] { width: 18px; }
+img[alt="refresh icon"] { width: 18px; }
+img[alt="cross icon"] { width: 18px; }
